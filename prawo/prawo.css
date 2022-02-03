@@ -1,0 +1,52 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.menu_content{
+	text-align: center;
+	color: green;
+}
+.menu_content img{
+	float: left;
+}
+.menu_span a{
+	text-decoration: none;
+	padding-right: 5px;
+}
+.menu_span-language{
+	float: right;
+}
+
+.theme_content{
+	font-size: 50px;
+	padding-top:20px;
+	text-align: center;
+}
+.post_content-right {
+	padding-left: 70%;
+}
+.post_content p{
+	
+	padding-left: 230px;
+}
+.author_content h5{
+	padding-left: 40px;
+}
+.author_content-image{
+	text-align: center;
+}
+.footer_grid{
+	display: grid;
+	grid-template-columns: 5fr 7fr;
+}
+.left_footer{
+	padding-left: 30px;
+}
+.right_footer {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+}
+.networks{
+	padding-top: 60px;
+}
